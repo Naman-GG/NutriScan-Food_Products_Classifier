@@ -99,7 +99,7 @@ File Structure
 
 2. Install the required dependencies.
 
-3. Run the respective model notebooks (NutriScore - Random Forest and NutriScore - Logistic Regression) to train and test the models.
+3. Run the respective model notebooks (NutriScore - Random Forest.ipynb and NutriScore - Logistic Regression.ipynb) to train and test the models.
 
 
 ## Results

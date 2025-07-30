@@ -1,4 +1,4 @@
-# Machine Learning Models on Random Forest & Logistic Regression Algorithma
+# Machine Learning Models on Random Forest & Logistic Regression Algorithm
 
 This repository contains two machine learning models implemented to classify products based on their nutritional value and harmfulness. The models analyze product ingredients and predict a classification level (A, B, C, D, E) based on the provided dataset.
 
